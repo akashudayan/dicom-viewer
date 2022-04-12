@@ -1,0 +1,23 @@
+.ToolButton {
+  background-color: #282c34; /* Green */
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  border: 1px solid rgb(0, 204, 255);;
+}
+.ActiveToolButton {
+  background-color: #1e1e21; /* Green */
+  border: 2px solid rgb(0, 204, 255);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 4px 2px;
+}
